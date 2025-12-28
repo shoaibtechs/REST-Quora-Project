@@ -18,18 +18,20 @@ A functional web application built to demonstrate **RESTful API Design** and **C
 
 ## 📸 Screenshots
 
-| All Posts (Index) | View Details (Show)|
-|---|---|
-| ![Index Page](images/1.png) | ![New Post](images/2.png) |
+### 1. Main Feed & Details
+| All Posts (Index) | View Details (Show) |
+| :---: | :---: |
+| <img src="images/1.png" width="400"> | <img src="images/2.png" width="400"> |
 
-|Edit Post| Edited Post  | Delete Functionality |
-|---|---|---|
-| ![Show Page](images/3.png) | ![Edit Page](images/4.png) | ![Delete](images/5.png) |
+### 2. Editing & Deleting
+| Edit Post | Edited Post | Delete Functionality |
+| :---: | :---: | :---: |
+| <img src="images/3.png" width="300"> | <img src="images/4.png" width="300"> | <img src="images/5.png" width="300"> |
 
-
-|Add new Post| New Post Added | 
-|---|---|---|
-| ![Show Page](images/6.png) | ![Edit Page](images/7.png) 
+### 3. Adding New Content
+| Add New Post | New Post Added |
+| :---: | :---: |
+| <img src="images/6.png" width="400"> | <img src="images/7.png" width="400"> |
 
 ## 🚀 How to Run Locally
 1. Clone the repo: `git clone <your-repo-link>`
