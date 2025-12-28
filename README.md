@@ -34,7 +34,7 @@ A functional web application built to demonstrate **RESTful API Design** and **C
 | <img src="images/6.png" width="400"> | <img src="images/7.png" width="400"> |
 
 ## 🚀 How to Run Locally
-1. Clone the repo: `git clone <your-repo-link>`
+1. Clone the repo: `git clone https://github.com/shoaibtechs/REST-Quora-Project.git
 2. Install dependencies: `npm install`
 3. Start the server: `node index.js`
 4. Open: `http://localhost:8080/posts`
