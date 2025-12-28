@@ -26,6 +26,11 @@ A functional web application built to demonstrate **RESTful API Design** and **C
 |---|---|---|
 | ![Show Page](images/3.png) | ![Edit Page](images/4.png) | ![Delete](images/5.png) |
 
+
+|Add new Post| New Post Added | 
+|---|---|---|
+| ![Show Page](images/6.png) | ![Edit Page](images/7.png) 
+
 ## 🚀 How to Run Locally
 1. Clone the repo: `git clone <your-repo-link>`
 2. Install dependencies: `npm install`
