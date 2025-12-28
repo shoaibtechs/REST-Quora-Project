@@ -18,11 +18,11 @@ A functional web application built to demonstrate **RESTful API Design** and **C
 
 ## 📸 Screenshots
 
-| All Posts (Index) | Create New Post |
+| All Posts (Index) | View Details (Show)|
 |---|---|
 | ![Index Page](images/1.png) | ![New Post](images/2.png) |
 
-| View Details (Show) | Edit Post | Delete Functionality |
+|Edit Post| Edited Post  | Delete Functionality |
 |---|---|---|
 | ![Show Page](images/3.png) | ![Edit Page](images/4.png) | ![Delete](images/5.png) |
 
